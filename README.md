@@ -21,7 +21,7 @@ Ce projet est une calculatrice simple réalisée en **C#**, idéale pour ceux qu
 
 ## 🎨 Aperçu
 
-Bien que le programme ne puisse pas être exécuté directement dans une page HTML, des **captures d'écran** illustrant le fonctionnement du programme ont été ajoutées dans la section **Issues** du dépôt. Vous pourrez ainsi voir à quoi ressemblerait l'exécution du programme dans votre terminal.
+Bien que le programme ne puisse pas être exécuté directement dans une page HTML, des **captures d'écran** illustrant le fonctionnement du programme ont été ajoutées dans la section <a href="https://github.com/AbderemaneAttoumaniDEV/Simple-Calculator-Csharp/issues/1" target="_blank">**Issues**</a> du dépôt. Vous pourrez ainsi voir à quoi ressemblerait l'exécution du programme dans votre terminal.
 
 ## 📝 Exemples d'utilisation
 
