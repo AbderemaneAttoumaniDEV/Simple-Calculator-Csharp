@@ -12,3 +12,4 @@ C:\Users\user\Desktop\CODE\C#\simple_calculator\simple_calculator\obj\Debug\net9
 C:\Users\user\Desktop\CODE\C#\simple_calculator\simple_calculator\obj\Debug\net9.0\simple_calculator.pdb
 C:\Users\user\Desktop\CODE\C#\simple_calculator\simple_calculator\obj\Debug\net9.0\simple_calculator.genruntimeconfig.cache
 C:\Users\user\Desktop\CODE\C#\simple_calculator\simple_calculator\obj\Debug\net9.0\ref\simple_calculator.dll
+C:\Users\user\Desktop\CODE\C#\simple_calculator\simple_calculator\obj\Debug\net9.0\simple_calculator.sourcelink.json
